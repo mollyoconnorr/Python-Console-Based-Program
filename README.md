@@ -49,7 +49,7 @@ This Wordle game uses **two separate word lists** to enhance gameplay and ensure
   - `words.txt` — more common words included to cover everyday vocabulary.  
 
 ### Answer List
-- **Size:** Subset of `words.txt`, containing more common five-letter words.  
+- **Size:** Contains more common five-letter words.  
 - **Purpose:** Used as potential **secret words** in the game.  
 - Randomly selected to ensure that the secret word is guessable and keeps gameplay fair.
 
